@@ -4,7 +4,7 @@
 This repo contains my solutions to the CSES Problemset 
 
 
-## What is CSES? 
+## What is the CSES Problemset? 
 
 The CSES Problemset is a **comprehensive** collection of _high quality_ problems to learn **Data Structures & Algorithms**, It is curated by **Antti Laaksonen**, A Computer Scientist at the University of Helsinki. The problemset has **300 Problems** on sorting / searching, graphs / trees, dynamic programming, geometry, range queries and a lot more! 
 
