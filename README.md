@@ -15,8 +15,8 @@ Doing this problemset would give you a _solid foundation_ in data structures and
 
 | Section  | Progress |
 | ------------- | ------------- |
-| Introductory  | 0 / 19   |
-| Sorting and Searching  | 0 / 35  | 
-| Dynamic Programming | 0 / 19 |
-| Graph Algorithms | 0 / 36 | 
+| Introductory  | 18 / 19   |
+| Sorting and Searching  | 35 / 35  | 
+| Dynamic Programming | 17 / 19 |
+| Graph Algorithms | 14 / 36 | 
 | Range Queries | 0 / 19 | 
